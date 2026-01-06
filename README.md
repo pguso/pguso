@@ -76,32 +76,30 @@ A beautiful JavaScript circle statistic visualization plugin with **800+ stars**
 
 ## Tech Stack
 
-<div align="center">
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI & ML
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
-![Vector DB](https://img.shields.io/badge/-Vector_DB-FF6B6B?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-4ECDC4?style=flat-square)
 
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+### AI & ML
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![Vector DB](https://img.shields.io/badge/-Vector_DB-FF6B6B?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-4ECDC4?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-00ADD8?style=flat-square)
+
 ### Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-</div>
 
 ## What I'm Working On
 
