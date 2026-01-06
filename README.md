@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm passionate about **demystifying AI** and building educational resources that help developers understand complex concepts from first principles. My mission is to break down black boxes and show how things really work under the hood.
 
