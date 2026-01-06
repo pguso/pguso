@@ -31,7 +31,7 @@ const patric = {
 <tr>
 <td width="50%">
 
-### [AI Agents From Scratch](https://github.com/pguso/ai-agents-from-scratch)
+### [AI Agents From Scratch (JavaScript)](https://github.com/pguso/ai-agents-from-scratch)
 ![Stars](https://img.shields.io/github/stars/pguso/ai-agents-from-scratch?style=social)
 
 Demystify AI agents by building them yourself. Learn function calling, memory, and ReAct patterns using **local LLMs** with no cloud dependencies.
@@ -53,7 +53,7 @@ Build retrieval-augmented generation systems from the ground up. Real understand
 <tr>
 <td width="50%">
 
-### [Agents From Scratch (Python)](https://github.com/pguso/agents-from-scratch)
+### [AI Agents From Scratch (Python)](https://github.com/pguso/agents-from-scratch)
 ![Stars](https://img.shields.io/github/stars/pguso/agents-from-scratch?style=social)
 
 Python implementation of AI agents from first principles. No frameworks, no cloud APIs, no hidden reasoning.
