@@ -63,12 +63,12 @@ Python implementation of AI agents from first principles. No frameworks, no clou
 </td>
 <td width="50%">
 
-### [JS Plugin Circliful](https://github.com/pguso/js-plugin-circliful)
-![Stars](https://img.shields.io/github/stars/pguso/js-plugin-circliful?style=social)
+### [AI Product from Scratch](https://github.com/pguso/ai-product-from-scratch)
+![Stars](https://img.shields.io/github/stars/pguso/ai-product-from-scratch?style=social)
 
-A beautiful JavaScript circle statistic visualization plugin with **800+ stars**.
+Build an AI communication analyzer from scratch to understand how AI products actually work.
 
-**Tech:** TypeScript, Data Visualization
+**Tech:** TypeScript, Local LLMs
 
 </td>
 </tr>
