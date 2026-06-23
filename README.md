@@ -2,7 +2,6 @@
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GutersohnPatric)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patric-gutersohn-466046167/)
 [![GitHub followers](https://img.shields.io/github/followers/pguso?style=for-the-badge&logo=github)](https://github.com/pguso?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/pguso?style=for-the-badge&logo=github)](https://github.com/pguso?tab=repositories)
